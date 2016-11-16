@@ -1,3 +1,3 @@
 # clean my Data
 
-Some stupid (but useful) script for my crazy data
+Some stupid (but useful) scripts for my crazy data
